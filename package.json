@@ -1,0 +1,15 @@
+{
+  "name": "augmented-cqrs-example-saga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "augmented-cqrs": "git+https://git@github.com/rakamoviz/augmented-cqrs.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
